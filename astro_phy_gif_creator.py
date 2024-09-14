@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 29 17:14:01 2024
-
-@author: User
-"""
-
 # Imports
 import pynbody
 import matplotlib.pyplot as plt
