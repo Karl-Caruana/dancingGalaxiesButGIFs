@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 29 14:09:43 2024
-
-@author: User
-"""
-
 # Creating the images/frames is seperated from creating the gif.
 # To be modified to become more generally applicable...
 
